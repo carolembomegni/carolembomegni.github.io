@@ -1879,3 +1879,9 @@ p, li, label {
   border: 3px solid rgba(109, 40, 217, 0.6); /* mauve */
 }
 
+/*************************************/
+.image.about-photo img {
+  width: 180px;  /* ou 160px si tu veux plus discret */
+  height: 180px;
+}
+
